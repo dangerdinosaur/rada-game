@@ -1,0 +1,17 @@
+// This is a comment. It won't be parsed.
+MAIN MENU
+ICE ADVENTURE
+START GAME
+OPTIONS MENU
+AUDIO VOLUME
+MOUSE SENSITIVITY
+ENABLE SUBTITLES
+BACK TO GAME
+// Chapter Spots
+1969
+CHAPTER 1
+// DEV MODE
+Pre-Alpha Build 0.1a
+MAP
+// Hint Text
+Talk to Bobby

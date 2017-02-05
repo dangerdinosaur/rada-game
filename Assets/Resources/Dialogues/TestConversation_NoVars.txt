@@ -1,0 +1,52 @@
+:: Start
+
+Hello <b>stranger</b>, how are you?
+
+[[Pretty good thanks!|Pretty_good]]
+[[Terrible, worst day of my life|Terrible]]
+
+
+:: Church
+The church? I don't know why anyone would want to go there since the accident.
+
+You can find it over the other side of the railway bridge if you must.
+
+[[Bye...|End]]
+[[See ya...|End]]
+
+
+:: Pretty_good
+Well, that's good to hear. A lot of gloom going around these days.
+
+What can I do for you?
+
+[[I'd like to know where to find the church.|Church]]
+
+[[I need some information about Jerry|Jerry]]
+
+
+:: Jerry
+Jerry Warbucks? That old codger? Haven't seen him in years.
+
+He used to play piano at the old jazz bar though, they might know where he is.
+
+[[Thanks, I'll go check it out|End]]
+[[Cheers, bye!|End]]
+
+
+:: Terrible
+You know, you young people are always miserable these days.
+
+[[Yeah, well there's a lot to be miserable about|Complaining]]
+[[Hmmm, my generation do excel at complaining|Complaining]]
+
+
+:: Complaining
+Well, if you're going to be like that you can leave.
+
+[[Fine|End]]
+[[F-you then!|End]]
+
+:: End
+
+
